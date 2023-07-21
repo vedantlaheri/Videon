@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\videon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\video_more_features.xml",
+        "source": "D:\\videon\\app\\src\\main\\res\\layout\\video_more_features.xml"
+    },
+    {
+        "merged": "D:\\videon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_player.xml",
+        "source": "D:\\videon\\app\\src\\main\\res\\layout\\activity_player.xml"
+    },
+    {
+        "merged": "D:\\videon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\details_view.xml",
+        "source": "D:\\videon\\app\\src\\main\\res\\layout\\details_view.xml"
+    },
+    {
+        "merged": "D:\\videon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\more_features.xml",
+        "source": "D:\\videon\\app\\src\\main\\res\\layout\\more_features.xml"
+    },
+    {
+        "merged": "D:\\videon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_folders.xml",
+        "source": "D:\\videon\\app\\src\\main\\res\\layout\\activity_folders.xml"
+    },
+    {
+        "merged": "D:\\videon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\theme_view.xml",
+        "source": "D:\\videon\\app\\src\\main\\res\\layout\\theme_view.xml"
+    },
+    {
+        "merged": "D:\\videon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\folders_view.xml",
+        "source": "D:\\videon\\app\\src\\main\\res\\layout\\folders_view.xml"
+    },
+    {
+        "merged": "D:\\videon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header.xml",
+        "source": "D:\\videon\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "D:\\videon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\speed_dialog.xml",
+        "source": "D:\\videon\\app\\src\\main\\res\\layout\\speed_dialog.xml"
+    },
+    {
+        "merged": "D:\\videon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_folders.xml",
+        "source": "D:\\videon\\app\\src\\main\\res\\layout\\fragment_folders.xml"
+    },
+    {
+        "merged": "D:\\videon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_videos.xml",
+        "source": "D:\\videon\\app\\src\\main\\res\\layout\\fragment_videos.xml"
+    },
+    {
+        "merged": "D:\\videon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\rename_field.xml",
+        "source": "D:\\videon\\app\\src\\main\\res\\layout\\rename_field.xml"
+    },
+    {
+        "merged": "D:\\videon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\custom_control_view.xml",
+        "source": "D:\\videon\\app\\src\\main\\res\\layout\\custom_control_view.xml"
+    },
+    {
+        "merged": "D:\\videon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_about.xml",
+        "source": "D:\\videon\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\videon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\booster.xml",
+        "source": "D:\\videon\\app\\src\\main\\res\\layout\\booster.xml"
+    },
+    {
+        "merged": "D:\\videon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\video_view.xml",
+        "source": "D:\\videon\\app\\src\\main\\res\\layout\\video_view.xml"
+    },
+    {
+        "merged": "D:\\videon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\videon\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
